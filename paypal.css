@@ -1,0 +1,148 @@
+body {
+      font: 16px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  .navbar-nav  li button {
+  color: white;
+  background: #0A5BAD;
+  border-radius: 50px;
+  border: 1px solid white;
+}
+.container-fluid{
+background:  #0A5BAD;
+}
+
+.bg1
+{
+	background-image: url('https://www.paypalobjects.com/web/res/eee/cd2eeb1f98f04a293851a58a332bb/images/landing-9ac13f.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 25px;
+	
+ }
+ #mybt
+ {
+ 	border-radius: 50px;
+ 	margin-top:  30px;
+ }
+.bg2
+{
+	margin-top: 0px;
+	border-bottom: 1px solid #0A5BAD;
+}
+#about
+{
+	padding-top: 70px;
+	padding-bottom:  70px;
+	color:  black;
+	border-bottom: 1px solid #0A5BAD;
+}
+#howitworks { 
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #0A5BAD;
+      }
+
+.examples  {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 424px;
+    padding-top: 30px;
+}
+  .box
+  {
+  	display:  block;
+  	box-sizing: border-box;
+  	width: 100%;
+  	max-width: 424px;
+  	height: 53px;
+  	border-radius: 5px;
+  	background-color: #F4F4F4;
+  	padding: 6px 14px 7px 53px;
+    margin-bottom: 10px; 
+  }
+  .bobu {
+    display: block;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+    font-size: 12px;
+    padding-left: 10px;
+    line-height: 40px;
+    text-align: left;
+
+}
+#getstarted
+{
+	color: black;
+  padding-top: 20px;
+  padding-bottom: 230px;
+}
+.bg .row
+{
+	padding-top: 40px;
+}
+.bg .row button
+{
+	 height: 50px;
+    width: 30%;
+  
+    margin-top: 50px;
+    border-radius: 50px;
+}
+.giveBorder {
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+}
+
+.circle {
+  display: flex;
+  flex-grow: 1;
+}
+
+.numbers {
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    border: 1px solid #d8d8d8;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 6px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.exp {
+  display: inline-block;
+  width: calc(100% - 60px);
+  
+}
+.bg5{
+	display: flex;
+  border-bottom: 1px dotted #0A5BAD;
+}
+.comp
+{
+	margin-left: 20px;
+}
+.bgg{
+	color: #d8d8d8 ;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: flex-end;
+}
+.bgg .foot
+{
+	display: flex;
+}
+.bgg .foot li{
+	 margin-left: 0.75rem;
+	 color: #d8d8d8 !important;
+}
+
+
+
