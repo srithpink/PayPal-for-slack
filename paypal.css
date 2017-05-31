@@ -144,5 +144,7 @@ background:  #0A5BAD;
 	 color: #d8d8d8 !important;
 }
 
-
+h1, .container.text p {
+  color: #fff !important;
+}
 
